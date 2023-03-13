@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Project SI-X</title>
+		<description></description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Change of plans.</title>
+				
+				
+					<description>&lt;h2 id=&quot;still-not-dead-but-very-distracted&quot;&gt;Still not dead, but very distracted.&lt;/h2&gt;
+</description>
+				
+				<pubDate>Sat, 14 Jan 2023 00:00:00 +0200</pubDate>
+				<link>https://six.vardonir.com/change-of-plans</link>
+				<guid isPermaLink="true">https://six.vardonir.com/change-of-plans</guid>
+			</item>
+		
+			<item>
+				<title>Not dead. Just hibernating</title>
+				
+				
+					<description>&lt;p&gt;I’ll be back. In the meantime…&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 13 Oct 2022 00:00:00 +0300</pubDate>
+				<link>https://six.vardonir.com/not-dead</link>
+				<guid isPermaLink="true">https://six.vardonir.com/not-dead</guid>
+			</item>
+		
+			<item>
+				<title>August 2022 Public Demo Preview</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;assets/img/2022augpublic/20220821004049.png&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 20 Aug 2022 00:00:00 +0300</pubDate>
+				<link>https://six.vardonir.com/aug-public-demo-preview</link>
+				<guid isPermaLink="true">https://six.vardonir.com/aug-public-demo-preview</guid>
+			</item>
+		
+			<item>
+				<title>August 2022 Alpha Demo Recap</title>
+				
+				
+					<description>&lt;p&gt;&lt;a href=&quot;https://www.reddit.com/r/Deusex/comments/whs7ox/a_first_demo_in_my_project_to_recreate/&quot;&gt;6th of August 2022, I made a post on reddit&lt;/a&gt; about a little project that I’ve been keeping quiet about for more than a year. I know this is the first post in this blog, so please see the about page for more info about the project itself.&lt;/p&gt;
+</description>
+				
+				<pubDate>Mon, 08 Aug 2022 00:00:00 +0300</pubDate>
+				<link>https://six.vardonir.com/aug-alpha-demo-recap</link>
+				<guid isPermaLink="true">https://six.vardonir.com/aug-alpha-demo-recap</guid>
+			</item>
+		
+	</channel>
+</rss>
