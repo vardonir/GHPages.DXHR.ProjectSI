@@ -7,6 +7,18 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Still not dead. Just distracted.</title>
+				
+				
+					<description>&lt;p&gt;writeup soon&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 16 Jul 2023 00:00:00 +0300</pubDate>
+				<link>http://localhost:4000/still-not-dead</link>
+				<guid isPermaLink="true">http://localhost:4000/still-not-dead</guid>
+			</item>
+		
+			<item>
 				<title>Change of plans.</title>
 				
 				
@@ -14,8 +26,8 @@
 </description>
 				
 				<pubDate>Sat, 14 Jan 2023 00:00:00 +0200</pubDate>
-				<link>https://six.vardonir.com/change-of-plans</link>
-				<guid isPermaLink="true">https://six.vardonir.com/change-of-plans</guid>
+				<link>http://localhost:4000/change-of-plans</link>
+				<guid isPermaLink="true">http://localhost:4000/change-of-plans</guid>
 			</item>
 		
 			<item>
@@ -26,8 +38,8 @@
 </description>
 				
 				<pubDate>Thu, 13 Oct 2022 00:00:00 +0300</pubDate>
-				<link>https://six.vardonir.com/not-dead</link>
-				<guid isPermaLink="true">https://six.vardonir.com/not-dead</guid>
+				<link>http://localhost:4000/not-dead</link>
+				<guid isPermaLink="true">http://localhost:4000/not-dead</guid>
 			</item>
 		
 			<item>
@@ -38,8 +50,8 @@
 </description>
 				
 				<pubDate>Sat, 20 Aug 2022 00:00:00 +0300</pubDate>
-				<link>https://six.vardonir.com/aug-public-demo-preview</link>
-				<guid isPermaLink="true">https://six.vardonir.com/aug-public-demo-preview</guid>
+				<link>http://localhost:4000/aug-public-demo-preview</link>
+				<guid isPermaLink="true">http://localhost:4000/aug-public-demo-preview</guid>
 			</item>
 		
 			<item>
@@ -50,8 +62,8 @@
 </description>
 				
 				<pubDate>Mon, 08 Aug 2022 00:00:00 +0300</pubDate>
-				<link>https://six.vardonir.com/aug-alpha-demo-recap</link>
-				<guid isPermaLink="true">https://six.vardonir.com/aug-alpha-demo-recap</guid>
+				<link>http://localhost:4000/aug-alpha-demo-recap</link>
+				<guid isPermaLink="true">http://localhost:4000/aug-alpha-demo-recap</guid>
 			</item>
 		
 	</channel>
