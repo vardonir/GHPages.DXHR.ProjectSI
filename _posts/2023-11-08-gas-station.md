@@ -3,7 +3,7 @@ layout: post
 title: "Clutter: Detroit gas station."
 categories: wip
 tags: [ue-demo, gas-station]
-image: 2023aug/2023.11.08 16.56.35.png
+image: 2023nov/2023.11.08 16.56.35.png
 ---
 
 ![](assets/img/2023nov/Pasted%20image%2020231108180524.png)
